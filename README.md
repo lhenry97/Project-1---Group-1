@@ -6,14 +6,13 @@ Team Members: Rachael Innes, Lauren Henry, Rhea Khanna, Kurai Monica Matiki
 Project Description: The aim of our project is to analyse the factors that impact the ratings of Airbnb’s.  We will examine the relationships between seasons (weather), dwelling type, location, host response rates and the level of ratings that an Airbnb receives.
 
 Research Questions:
-·        Weather: What is the relationship between weather (temperature) and ratings?
+·        Reviews: What is the relationship between nightly price of the properties and their reviews/ratings?
 ·        Property Type: Does property type impact the rating of Airbnb’s?
 ·        Host Response Rates: Do host response rates impact ratings?
 ·        Location: Does the location affect the ratings?
 
 Datasets to be used:
 Airbnb data: Inside Airbnb: Get the Data (sourced from Kaggle)
-Open Weather: Current weather and forecast - OpenWeatherMap
  
 Breakdown of Tasks:
 
