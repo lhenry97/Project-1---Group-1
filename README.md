@@ -49,7 +49,7 @@ Task 2	Exploratory Data Analysis	•	Perform descriptive statistics to understan
 Task 3	Location-Based Analysis	•	Use geographical visualisations (e.g., Maps, heat maps) to analyse the distribution of listings and prices.
 •	Identify popular neighbourhoods and analyse their average prices.	Rachael
 
-Task 5	Rating- Based Analysis	•	Formulate hypothesis based on ratings vs prices and use visualisation and correlation analysis to test the hypothesis	LaurenW
+Task 5	Rating- Based Analysis	•	Formulate hypothesis based on ratings vs prices and use visualisation and correlation analysis to test the hypothesis	Lauren
 
 Task 6	Property Type-Based Analysis	•	Formulate hypothesis regarding property type vs prices.
 •	Perform t-tests, ANOVA and regression analysis to test these hypotheses	Rhea
