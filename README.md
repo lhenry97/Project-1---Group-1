@@ -22,18 +22,19 @@ Hypothesis
 2.	Price Vs Property Type: - Rhea
 •	Hypothesis: Entire homes/apartments are prices higher than private or shared rooms.
 •	Test: Perform ANOVA to compare the average prices across different property types.
-3.	Price vs Number of Reviews: Monica
+3.	Price vs Number of Reviews: - Monica
 •	Hypothesis: Listings with a higher number of reviews tend to have higher prices.
 •	Test: Use correlation analysis to examine the relationship.
-4.	Rating vs. Price: Lauren
+4.	Rating vs. Price: - Lauren
 •	Hypothesis: Higher-rated listings are more expensive
 •	Test: Use correlation analysis and regression analysis to test this hypothesis.
-5.	Host Characteristics vs Price and Ratings: Monica
+5.	Host Characteristics vs Price and Ratings: - Monica
 •	Hypothesis: Listings with more experienced host tend to be priced higher
 •	Test: Use regression analysis to test this hypothesis
-6. Amenities vs Price
-   Hypothesis: Price of properties with all 5 amenities tend to be higher than that of properties without all 5 amenities.
-   Test: Use Ptest to compare
+6.      Amenities vs Price
+        Hypothesis: Price of properties with all 5 amenities tend to be higher than that of properties without all 5 amenities. - Rhea 
+        Test: Use T-test to test this hypothesis
+    
 Methodology and Distribution of Tasks
 
 Tasks	Name	Description	Responsible person
@@ -52,13 +53,13 @@ Task 3	Location-Based Analysis	•	Use geographical visualisations (e.g., Maps, 
 Task 5	Rating- Based Analysis	•	Formulate hypothesis based on ratings vs prices and use visualisation and correlation analysis to test the hypothesis	Lauren
 
 Task 6	Property Type-Based Analysis	•	Formulate hypothesis regarding property type vs prices.
-•	Perform t-tests, ANOVA and regression analysis to test these hypotheses	Rhea
+•	Perform ANOVA to test these hypotheses.	    Rhea
 
 Task 7	Host Experience and Listing Performance	•	Group listings by host and analyse performance metrics (e.g., average rating, number of bookings).
 •	Use correlation analysis and hypothesis testing to examine the relationships.	Monica
 
-Task 8 Price and Amenities 
-Test: Use Ptest to compare the two variables. Rhea
+Task 8 Amenities-based analysis  •	Formulate hypothesis regarding the Airbnb listings with & without the top 5 Airbnb amenities vs prices
+Test: Use T-test to compare the categories and test the hypothesis.  Rhea
 
 Expected Outcomes
 •	Identification of key factors influencing Airbnb listing prices.
