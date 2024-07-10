@@ -57,6 +57,9 @@ Task 6	Property Type-Based Analysis	•	Formulate hypothesis regarding property 
 Task 7	Host Experience and Listing Performance	•	Group listings by host and analyse performance metrics (e.g., average rating, number of bookings).
 •	Use correlation analysis and hypothesis testing to examine the relationships.	Monica
 
+Task 8 Price and Amenities 
+Test: Use Ptest to compare the two variables. Rhea
+
 Expected Outcomes
 •	Identification of key factors influencing Airbnb listing prices.
 •	Insights into how location, property type, and amenities impact pricing.
